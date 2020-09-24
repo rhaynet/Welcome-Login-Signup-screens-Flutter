@@ -2,7 +2,8 @@
 <hr/>
 This app contains three screens: The welcome page, Login page, and the Sign Up page.
 
-<ul><b>Packages used:</b>
+<b>Packages used:</b>
+<ul>
 <li>flutter_svg: <a href="https://pub.dev/packages/flutter_svg">link</a></li>
 
 </ul>
